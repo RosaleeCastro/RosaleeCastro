@@ -1,86 +1,79 @@
-<h1 align="center">Hi, I'm Rosalee 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Passionate+about+continuous+learning;Adaptable%2C+collaborative+and+curious;DAW+student+focused+on+web+development;Building+AI-oriented+solutions;Learning+client-server+connections+and+public+APIs" alt="Typing SVG" />
+# Hi, I'm Rosalee 👋
+
+### Web Application Development Student  
+**Focused on web development, public APIs, client-server architecture and AI-oriented solutions**
+
+<p>
+  <a href="https://github.com/RosaleeCastro">
+    <img src="https://img.shields.io/badge/GitHub-RosaleeCastro-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rosaleecastrotoribio/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rosalee%20Castro-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 💜 About me
 
-- 🎓 Web Application Development student  
-- 🌱 Passionate about continuous learning  
-- 🤝 Team-oriented and highly adaptable  
-- 💻 Focused on web development and real projects  
-- 🔗 Learning client-server architecture and public APIs  
-- 🤖 Interested in AI-oriented development  
+- 🎓 DAW student focused on building real web projects
+- 🌱 Passionate about continuous learning
+- 🤝 Adaptable, collaborative and team-oriented
+- 🔗 Learning client-server connections and public API integration
+- 🤖 Interested in practical AI-oriented development
+- 🚀 Growing step by step in frontend and backend technologies
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-1F1B24?style=for-the-badge&logo=html5&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/CSS3-1F1B24?style=for-the-badge&logo=css3&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/JavaScript-1F1B24?style=for-the-badge&logo=javascript&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/PHP-1F1B24?style=for-the-badge&logo=php&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/MySQL-1F1B24?style=for-the-badge&logo=mysql&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/MongoDB-1F1B24?style=for-the-badge&logo=mongodb&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Git-1F1B24?style=for-the-badge&logo=git&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/GitHub-1F1B24?style=for-the-badge&logo=github&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/VS%20Code-1F1B24?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,mysql,postgres,mongodb,git,github,vscode&theme=dark" />
+</div>
 
 ---
 
-## 🚀 Currently learning
+## 📚 Current focus
 
-- Client-server communication  
-- Public API integration  
-- JavaScript for dynamic web apps  
-- Backend logic with PHP  
-- Databases with MySQL and MongoDB  
-- Practical use of AI in development  
-
----
-
-## 📌 Goals
-
-- Build useful and real-world web projects  
-- Strengthen my backend and API skills  
-- Grow as a collaborative developer  
-- Create a solid portfolio for tech opportunities  
+- Client-server communication
+- REST APIs and integration
+- JavaScript and TypeScript
+- React interfaces
+- Backend with Node.js, Express and PHP
+- Databases with MySQL, PostgreSQL and MongoDB
+- Clean, useful and scalable web solutions
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosaleeCastro&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeCastro&layout=compact&theme=midnight-purple&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=0D1117" height="165" />
-</p>
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=RosaleeCastro&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeCastro&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=E5E7EB"
+  />
+</div>
 
 ---
 
 ## 🌐 Connect with me
 
-<p align="left">
-  <a href="https://github.com/RosaleeCastro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1F1B24?style=for-the-badge&logo=github&logoColor=A855F7" />
-  </a>
-  <a href="https://www.linkedin.com/in/rosaleecastrotoribio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1F1B24?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
-  </a>
-</p>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E22CE&height=100&section=footer" />
+  <a href="https://github.com/RosaleeCastro">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rosaleecastrotoribio/">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
 <!--
 **RosaleeCastro/RosaleeCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
